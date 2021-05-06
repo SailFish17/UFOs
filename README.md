@@ -20,7 +20,7 @@ However, for the more efficiently minded peruser of this data set, filters are a
 
 Additional filtering further narrow the search in a reductive way allowing the user a more refined experience.
 
-![Multiple Filters](https://github.com/SailFish17/UFOs/tree/main/static/images/Double%20Filter.png)
+![Multiple Filters](https://github.com/SailFish17/UFOs/tree/main/static/images/Double%20Filter_LI.png)
 
 ## Summary:
 
